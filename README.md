@@ -1,5 +1,5 @@
 # einstein
-# journey to annus mirabilis
+## journey to annus mirabilis
 
 At age 23-29 years old einstein works at Federal office for intellectual property in Bern
 for seven years.
